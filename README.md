@@ -1,6 +1,6 @@
 # flappybird
 
-Flappy bird clone made with gLua, game is made to be as authetic as possible with some improvements.
+Flappy bird clone made with gLua, game is made to be as authentic as possible with some improvements.
 
 
 
